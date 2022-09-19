@@ -1,0 +1,15 @@
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\bin\Debug\net6.0\controlwork_IT_Study.exe
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\bin\Debug\net6.0\controlwork_IT_Study.deps.json
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\bin\Debug\net6.0\controlwork_IT_Study.runtimeconfig.json
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\bin\Debug\net6.0\controlwork_IT_Study.dll
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\bin\Debug\net6.0\controlwork_IT_Study.pdb
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\obj\Debug\net6.0\controlwork_IT_Study.csproj.AssemblyReference.cache
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\obj\Debug\net6.0\controlwork_IT_Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\obj\Debug\net6.0\controlwork_IT_Study.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\obj\Debug\net6.0\controlwork_IT_Study.AssemblyInfo.cs
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\obj\Debug\net6.0\controlwork_IT_Study.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\obj\Debug\net6.0\controlwork_IT_Study.dll
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\obj\Debug\net6.0\refint\controlwork_IT_Study.dll
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\obj\Debug\net6.0\controlwork_IT_Study.pdb
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\obj\Debug\net6.0\controlwork_IT_Study.genruntimeconfig.cache
+C:\Users\Константин\Desktop\IT-специалист\Control_work\controlwork_IT_Study\obj\Debug\net6.0\ref\controlwork_IT_Study.dll
