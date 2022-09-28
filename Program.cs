@@ -1,8 +1,13 @@
-﻿Console.Write("Введите 1 строку:");
-string firstword=Console.ReadLine();
-Console.Write("Введите 2 строку:");
-string secondword=Console.ReadLine();
-Console.Write("Введите 3 строку:");
-string thirdword=Console.ReadLine();
+﻿string firstcar="BMW";
+string secondcar="AUDI";
+string thirdcar="KIA";
 
-string []=new string[firstword,secondword,thirdword];
+string[] cars = {firstcar,secondcar,thirdcar};
+Console.WriteLine(cars);
+
+if(cars.Length<3){
+    Console.WriteLine(cars);
+}
+else{
+    Console.WriteLine();
+}
