@@ -5,7 +5,7 @@ string thirdcar="KIA";
 string[] cars = {firstcar,secondcar,thirdcar};
 Console.WriteLine(cars);
 
-if(cars.Length<3){
+if(cars.Length<=3){
     Console.WriteLine(cars);
 }
 else{
